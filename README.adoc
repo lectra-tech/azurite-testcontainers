@@ -1,0 +1,17 @@
+= 💎 Azurite + Testcontainers 🐳
+
+== 🎯 Overview
+
+This project is a support for the blog post https://tech-blog.lectra.com/article/781-azurite-testcontainers-comment-tester-azure-blob-storage-sans-nuage[Azurite + Testcontainers : comment tester Azure Blob Storage sans nuage] of https://tech-blog.lectra.com[Lectra Tech Blog].
+
+== 🛠 Build and run tests
+
+Pre-requisites::
+* ☕️ JDK 11
+* 📦 Maven 3.6
+* 🐳 Docker
+
+[source]
+----
+mvn clean verify
+----

@@ -1,0 +1,13 @@
+target/
+.java-version
+dependency-reduced-pom.xml
+
+*.iml
+.idea
+
+.DS_Store
+*.log
+
+*.project
+*.classpath
+*.settings
